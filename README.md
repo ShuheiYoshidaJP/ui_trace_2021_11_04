@@ -1,16 +1,3 @@
 # ui_trace_2021_11_04
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/62702170/140246589-21629870-59c5-4461-995e-8192e31c16ec.png" width="300"><img src="https://user-images.githubusercontent.com/62702170/140246612-997de8a0-2d8a-4e8c-9c25-ce2b363dcbf4.png" width="300">
